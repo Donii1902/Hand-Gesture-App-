@@ -1,0 +1,17 @@
+body
+{
+  color: white;
+  background: plum;
+}
+
+.heading
+{
+  font-size: 19px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+
+span
+{
+  font-size: 40px;
+}
